@@ -1,0 +1,87 @@
+UNKNOWN {
+	FONT-SIZE: 9pt; COLOR: #222244; LINE-HEIGHT: 150%
+}
+BODY {
+	SCROLLBAR-ARROW-COLOR: #05056b; SCROLLBAR-BASE-COLOR: #f7a57b
+}
+SELECT {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: ËÎÌו,verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #cfcfcf
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: ËÎÌו,verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #cfcfcf
+}
+.bginput {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: ËÎÌו,verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #cfcfcf
+}
+A:link {
+	COLOR: #000020
+}
+A:visited {
+	COLOR: #000020
+}
+A:active {
+	COLOR: #000020
+}
+A:hover {
+	COLOR: #ff4400
+}
+INPUT {
+	BORDER-RIGHT: #007500 1px solid; BORDER-TOP: #007500 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #007500 1px solid; COLOR: #000000; LINE-HEIGHT: 120%; BORDER-BOTTOM: #007500 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #ffe0d0
+}
+#cat A:link {
+	COLOR: #05056b; TEXT-DECORATION: none
+}
+#cat A:visited {
+	COLOR: #05056b; TEXT-DECORATION: none
+}
+#cat A:active {
+	COLOR: #05056b; TEXT-DECORATION: none
+}
+#cat A:hover {
+	COLOR: #05056b; TEXT-DECORATION: underline
+}
+#ltlink A:link {
+	COLOR: #000020; TEXT-DECORATION: none
+}
+#ltlink A:visited {
+	COLOR: #000020; TEXT-DECORATION: none
+}
+#ltlink A:active {
+	COLOR: #000020; TEXT-DECORATION: none
+}
+#ltlink A:hover {
+	COLOR: #ff4400; TEXT-DECORATION: underline
+}
+.thtcolor {
+	COLOR: #05056b
+}
+.formtxt {
+	LINE-HEIGHT: 100%
+}
+.high20txt {
+	LINE-HEIGHT: 150%
+}
+.high30txt {
+	LINE-HEIGHT: 300%
+}
+.thtcolor-282560 {
+	COLOR: #282560
+}
+.p9black {
+	FONT-SIZE: 11px; WORD-SPACING: 5px; COLOR: #000000; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.p9v {
+	FONT-SIZE: 11px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.p9navyblue {
+	FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.p9orange {
+	FONT-SIZE: 11px; COLOR: #922750; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+.p12co {
+	FONT-SIZE: 14px; COLOR: #3d4e7a; TEXT-INDENT: 2px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.red {
+	COLOR: #ff0000;FONT-SIZE: 14px;
+}
